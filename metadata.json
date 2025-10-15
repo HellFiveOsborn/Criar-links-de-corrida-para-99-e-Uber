@@ -1,0 +1,5 @@
+{
+  "name": "99 Ride Link Generator",
+  "description": "Generate pre-filled ride links for the 99 app to easily share with others. Simply enter the pickup and drop-off locations to create a deep link for friends and family.",
+  "requestFramePermissions": []
+}
